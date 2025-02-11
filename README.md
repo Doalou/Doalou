@@ -28,7 +28,7 @@ Un générateur de scripts NSIS avec une interface graphique intuitive.
 ## 📫 Me contacter
 - 🌐 **Site web** : [doalo.fr](https://doalo.fr)
 - 📧 **Email** : [contact@doalo.fr](mailto:contact@doalo.fr)
-- 🐦 **Twitter** : [@wispy_fr](https://twitter.com/doalou)
-- 🛠️ **GitHub** : [@doalo](https://github.com/doalou)
+- 🐦 **Twitter** : [@doalou](https://twitter.com/doalou)
+- 🛠️ **GitHub** : [@doalou](https://github.com/doalou)
 
 N'hésite pas à me contacter ou à contribuer à mes projets ! 😊
