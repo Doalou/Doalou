@@ -14,10 +14,10 @@ Je suis un passionné de **développement informatique, réseaux et IA**. J'aime
 
 ## 📌 Mes projets en cours
 
-### 🔹 [EducInfo](https://github.com/doalou/EducInfo) *(v1.2.1)*
+### 🔹 [EducInfo](https://github.com/doalou/EducInfo) *(v1.3.0)*
 Un écran d'information dynamique pour les lycées, optimisant la communication interne à l'établissement.
 
-### 🔹 [Toolbox Everything](https://github.com/Doalou/toolbox_everything) *(v1.1.3)*
+### 🔹 [Toolbox Everything](https://github.com/Doalou/toolbox_everything) *(v1.2.0)*
 Une boîte à outils web complète avec téléchargeur YouTube, convertisseur de médias et outils utilitaires, le tout dans une interface moderne et responsive.
 
 ### 🔹 [Doalo.fr](https://doalo.fr)
