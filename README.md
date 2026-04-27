@@ -43,4 +43,4 @@ Générateur de scripts NSIS avec interface graphique.
 
 ---
 
-[doalo.fr](https://doalo.fr) · [contact@doalo.fr](mailto:contact@doalo.fr) · [@doalou](https://twitter.com/doalou)
+[doalo.fr](https://doalo.fr) · [contact@doalo.fr](mailto:contact@doalo.fr) · [@doalou](https://twitter.com/doalou) sur Twitter/X
