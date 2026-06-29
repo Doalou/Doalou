@@ -4,7 +4,7 @@ Développement logiciel · Réseaux · 📍 Strasbourg, France
 
 ---
 
-Passionné par la conception d'outils utiles à tous. Fondateur de **Nerieum**, une association qui met en avant les jeunes développeurs et promeut le numérique.
+Passionné par la conception d'outils utiles à tous. Co-Fondateur avec @oriionn de **Nerieum**, une association qui met en avant les jeunes développeurs et promeut le numérique.
 
 ![Python](https://img.shields.io/badge/Python-3B6D11?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-854F0B?style=flat&logo=javascript&logoColor=white)
