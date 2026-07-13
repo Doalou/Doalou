@@ -22,7 +22,7 @@ Passionné par la conception d'outils utiles à tous. Co-Fondateur avec **[Orion
 
 ## Projets
 
-**[EducInfo](https://github.com/doalou/EducInfo)** `v1.3.0`  
+**[EducInfo](https://github.com/doalou/EducInfo)** `v3.0.0`  
 Écran d'information dynamique pour établissements scolaires, pensé pour fluidifier la communication interne.
 
 **[Toolbox Everything](https://github.com/Doalou/toolbox_everything)** `v1.3.1`  
